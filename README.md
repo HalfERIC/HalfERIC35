@@ -1,15 +1,12 @@
-import random
+# Sobre
 
-# Lista de possíveis estados de espírito
-estados_de_espirito = ['feliz', 'triste', 'animado', 'entediado', 'preocupado']
+Olá! Meu nome é Eric Righi e sou um estudante de TI. Estou sempre procurando maneiras de melhorar minhas habilidades.
 
-# Gera um número aleatório entre 0 e 1 para escolher o estado de espírito
-estado_de_espirito_index = random.randint(0, 1)
+## Contato
 
-# Cria a string do perfil com base no estado de espírito escolhido aleatoriamente
-if estado_de_espirito_index == 0:
-    perfil = f"Estou me sentindo {estados_de_espirito[random.randint(0, 4)]} hoje!"
-else:
-    perfil = "Não estou me sentindo muito bem hoje..."
+- eric.righi45@gmai.com
 
-print(perfil)
+## Habilidades Técnicas
+
+- JAVA, PHP, Dart (Flutter), Java Script, HTML e CSS
+
