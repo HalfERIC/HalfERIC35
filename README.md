@@ -8,5 +8,5 @@ Olá! Meu nome é Eric Righi e sou um estudante de TI. Estou sempre procurando m
 
 ## Habilidades Técnicas
 
-- JAVA, PHP, Dart (Flutter), Java Script, HTML e CSS
+- JAVA, PHP, Dart (Flutter), Kotlin, Java Script, HTML e CSS.
 
